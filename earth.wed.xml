@@ -154,8 +154,20 @@
                 <child id="40"/>
             </children>
             <hierarchy hidden="0" locked="0" name="TEJGAON"/>
-            <airport always_flatten="0" elevation="7.3" has_atc="1" icao="VGTJ" kind="Airport" scenery_id="32176"/>
-            <meta_data/>
+            <airport always_flatten="0" elevation="7.3" has_atc="1" icao="VGTJ" kind="Airport" scenery_id="56058"/>
+            <meta_data>
+                <meta_data_entry pair="city,Dhaka"/>
+                <meta_data_entry pair="country,Bangladesh"/>
+                <meta_data_entry pair="datum_lat,23.778166667"/>
+                <meta_data_entry pair="datum_lon,90.382666667"/>
+                <meta_data_entry pair="faa_code,"/>
+                <meta_data_entry pair="iata_code,"/>
+                <meta_data_entry pair="icao_code,VGTJ"/>
+                <meta_data_entry pair="region_code,VG"/>
+                <meta_data_entry pair="state,Dhaka Division"/>
+                <meta_data_entry pair="transition_alt,4000"/>
+                <meta_data_entry pair="transition_level,6000"/>
+            </meta_data>
         </object>
         <object class="WED_AirportNode" id="5125" parent_id="5123">
             <sources/>
